@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lntinfotech\\Projects\\BankingUnitTesting\\Banking\\BankingService.App\\BankingService.App.csproj": {}
+    "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lntinfotech\\Projects\\BankingUnitTesting\\Banking\\BankingService.App\\BankingService.App.csproj": {
+    "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lntinfotech\\Projects\\BankingUnitTesting\\Banking\\BankingService.App\\BankingService.App.csproj",
+        "projectUniqueName": "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj",
         "projectName": "BankingService.App",
-        "projectPath": "C:\\Users\\Lntinfotech\\Projects\\BankingUnitTesting\\Banking\\BankingService.App\\BankingService.App.csproj",
-        "packagesPath": "C:\\Users\\Lntinfotech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lntinfotech\\Projects\\BankingUnitTesting\\Banking\\BankingService.App\\obj\\",
+        "projectPath": "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj",
+        "packagesPath": "C:\\Users\\StevenMSI\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.App\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lntinfotech\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\StevenMSI\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

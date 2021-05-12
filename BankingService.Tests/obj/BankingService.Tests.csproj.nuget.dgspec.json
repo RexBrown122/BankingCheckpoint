@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lntinfotech\\Repos\\BankingCheckpoint\\BankingService.Tests\\BankingService.Tests.csproj": {}
+    "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.Tests\\BankingService.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lntinfotech\\Repos\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj": {
+    "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lntinfotech\\Repos\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj",
+        "projectUniqueName": "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj",
         "projectName": "BankingService.App",
-        "projectPath": "C:\\Users\\Lntinfotech\\Repos\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj",
-        "packagesPath": "C:\\Users\\Lntinfotech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lntinfotech\\Repos\\BankingCheckpoint\\BankingService.App\\obj\\",
+        "projectPath": "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj",
+        "packagesPath": "C:\\Users\\StevenMSI\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.App\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lntinfotech\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\StevenMSI\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -56,17 +59,20 @@
         }
       }
     },
-    "C:\\Users\\Lntinfotech\\Repos\\BankingCheckpoint\\BankingService.Tests\\BankingService.Tests.csproj": {
+    "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.Tests\\BankingService.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lntinfotech\\Repos\\BankingCheckpoint\\BankingService.Tests\\BankingService.Tests.csproj",
+        "projectUniqueName": "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.Tests\\BankingService.Tests.csproj",
         "projectName": "BankingService.Tests",
-        "projectPath": "C:\\Users\\Lntinfotech\\Repos\\BankingCheckpoint\\BankingService.Tests\\BankingService.Tests.csproj",
-        "packagesPath": "C:\\Users\\Lntinfotech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lntinfotech\\Repos\\BankingCheckpoint\\BankingService.Tests\\obj\\",
+        "projectPath": "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.Tests\\BankingService.Tests.csproj",
+        "packagesPath": "C:\\Users\\StevenMSI\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Lntinfotech\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\StevenMSI\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -78,8 +84,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Lntinfotech\\Repos\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj": {
-                "projectPath": "C:\\Users\\Lntinfotech\\Repos\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj"
+              "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj": {
+                "projectPath": "c:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\BankingCheckpoint\\BankingService.App\\BankingService.App.csproj"
               }
             }
           }

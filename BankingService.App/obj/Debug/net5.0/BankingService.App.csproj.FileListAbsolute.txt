@@ -10,3 +10,15 @@ C:\Users\Lntinfotech\Projects\BankingUnitTesting\Banking\BankingService.App\obj\
 C:\Users\Lntinfotech\Projects\BankingUnitTesting\Banking\BankingService.App\obj\Debug\net5.0\BankingService.App.dll
 C:\Users\Lntinfotech\Projects\BankingUnitTesting\Banking\BankingService.App\obj\Debug\net5.0\ref\BankingService.App.dll
 C:\Users\Lntinfotech\Projects\BankingUnitTesting\Banking\BankingService.App\obj\Debug\net5.0\BankingService.App.pdb
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\bin\Debug\net5.0\BankingService.App.deps.json
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\bin\Debug\net5.0\BankingService.App.dll
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\bin\Debug\net5.0\ref\BankingService.App.dll
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\bin\Debug\net5.0\BankingService.App.pdb
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\obj\Debug\net5.0\BankingService.App.csprojAssemblyReference.cache
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\obj\Debug\net5.0\BankingService.App.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\obj\Debug\net5.0\BankingService.App.AssemblyInfoInputs.cache
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\obj\Debug\net5.0\BankingService.App.AssemblyInfo.cs
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\obj\Debug\net5.0\BankingService.App.csproj.CoreCompileInputs.cache
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\obj\Debug\net5.0\BankingService.App.dll
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\obj\Debug\net5.0\ref\BankingService.App.dll
+c:\Users\StevenMSI\Documents\CodingProjects\Galvanize\BankingCheckpoint\BankingService.App\obj\Debug\net5.0\BankingService.App.pdb
