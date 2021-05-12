@@ -28,5 +28,17 @@ namespace BankingService
             _balance += amount;
             _transactions.Add($"Deposit: ${amount}");
         }
+
+        public void Withdrawal(decimal amount)
+        {
+            if (amount < 0){
+                throw new ApplicationException("Cannot withdraw negative amounts");
+            }
+            if (amount > _balance){
+                throw new ApplicationException("Amount is greater than balance");
+            }
+            _balance -= amount;
+            _transactions.Add($"Withdrawal: ${amount}");
+        }
     }
 }
